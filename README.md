@@ -15,3 +15,14 @@ tasks in simulation, with a focus on control and policy learning.
 
 ## Status
 Work in progress — starting with a minimal RL baseline.
+## Planned Experiments
+
+The initial experiments in this project will focus on simple control and
+policy learning setups to build intuition before moving to full robotic
+manipulation tasks.
+
+Planned steps include:
+- Implementing a minimal reinforcement learning baseline
+- Studying the effect of reward design and exploration
+- Extending the setup to simulated manipulation environments
+
